@@ -31,10 +31,14 @@ class Person {
             // Custom setter checks if the value not equals "test"
             field = if (value != "test") value else "invalid input"
         }
+
+    var age: Int = 20
+        private set // This makes the setter private, allowing read-only access
 }
 
 fun main() {
     val person = Person()
     person.name = "test"
     println(person.name) // INVALID INPUT
+    println(person.age) // 20
 }
