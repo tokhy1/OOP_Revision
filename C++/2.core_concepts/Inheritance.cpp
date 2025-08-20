@@ -41,6 +41,9 @@ public:
         cout << "Parent class constructor" << endl;
     }
 
+    // Class destructor assigned virtual to make sure that the child class destructor will be triggered.
+    virtual ~Person() = default;
+
     void eat()
     {
         cout << "I eat food :)" << endl;
@@ -65,12 +68,12 @@ public:
     {
         cout << "I can teach students" << endl;
     }
+
 };
 
 int main()
 {
     // testing...
-
     Teacher teacher("Mohamed", 19);
 
     teacher.eat();
