@@ -17,6 +17,8 @@ class Program
         Abstraction.DemoAbstraction();
         Console.WriteLine("/*****************/");
         Polymorphism.DemoPolymorphism();
+        Console.WriteLine("/*****************/");
+        Encapsulation.DemoEncapsulation();
 
     }
 }
