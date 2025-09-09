@@ -1,0 +1,24 @@
+# Build results
+bin/
+obj/
+
+# Visual Studio cache/options
+.vs/
+*.user
+*.suo
+
+# Build logs
+*.log
+
+# Auto-generated files
+*.exe
+*.dll
+*.pdb
+
+# Temporary files
+*.tmp
+*.cache
+
+# OS-specific
+.DS_Store
+Thumbs.db
