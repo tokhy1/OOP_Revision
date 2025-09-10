@@ -6,8 +6,6 @@ using System.Text;
 using System.Threading.Tasks;
 /*
 
-
-
 // 1. What is a constructor?
 // A constructor is a special method that runs automatically when an object of the class is created.
 // If the constructor has parameters, we must provide arguments when creating the object.

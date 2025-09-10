@@ -1,5 +1,6 @@
 ﻿using c_.Basic_Concepts;
 using c_.Core_Concepts;
+using c_.Advanced_Concepts;
 
 class Program
 {
@@ -19,6 +20,10 @@ class Program
         Polymorphism.DemoPolymorphism();
         Console.WriteLine("/*****************/");
         Encapsulation.DemoEncapsulation();
+        Console.WriteLine("/*****************/");
+        EnumsClass.DemoEnums();
+        Console.WriteLine("/*****************/");
+        GenericsClass.DemoGenerics();
 
     }
 }
