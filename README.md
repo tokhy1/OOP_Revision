@@ -1,6 +1,6 @@
-# 🚀 OOP Revision Repository
+# 🚀 OOP Navigator Repository
 
-Welcome to the **OOP Revision Repository**! This repository is dedicated to Object-Oriented Programming (OOP) concepts and features across various programming languages. It serves as a valuable resource for learners and developers to explore OOP principles through practical examples in different languages.
+Welcome to the **OOP Navigator Repository**! This repository is dedicated to Object-Oriented Programming (OOP) concepts and features across various programming languages. It serves as a valuable resource for learners and developers to explore OOP principles through practical examples in different languages.
 
 ## 📘 Definition of OOP
 **Object-Oriented Programming (OOP)** is a programming paradigm that uses "objects" to represent data and methods. It enables the creation of modular, reusable, and organized code, promoting the use of classes and objects to model real-world entities.
